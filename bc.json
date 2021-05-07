@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://gray-lamprey-enentesv.ws-eu03.gitpod.io",
+    "address": "https://gold-swan-p5mtjzre.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -69,7 +69,7 @@
         {
             "slug": "01.3-rendering-from-objects",
             "title": "01.3-rendering-from-objects",
-            "done": false,
+            "done": true,
             "path": "exercises/01.3-rendering-from-objects",
             "translations": [
                 "es",
