@@ -179,7 +179,7 @@
         {
             "slug": "03.4-jumbotron",
             "title": "03.4-jumbotron",
-            "done": false,
+            "done": true,
             "path": "exercises/03.4-jumbotron",
             "translations": [
                 "es",
