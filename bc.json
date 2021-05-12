@@ -190,7 +190,7 @@
         {
             "slug": "03.5-alert-component",
             "title": "03.5-alert-component",
-            "done": false,
+            "done": true,
             "path": "exercises/03.5-alert-component",
             "translations": [
                 "es",
